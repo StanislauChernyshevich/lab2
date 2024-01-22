@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<warehouse>
+<results id="972">
+<name>Samsung</name>
+<type>A52</type>
+<count>980</count>
+</results>
+<results id="518">
+<name>Xiaomi</name>
+<type>C9</type>
+<count>780</count>
+</results>
+<results id="218">
+<name>ZTE</name>
+<type>Blade A7</type>
+<count>100</count>
+</results>
+<results id="595">
+<name>Nokia</name>
+<type>C50</type>
+<count>25</count>
+</results>
+</warehouse>
